@@ -1,0 +1,9 @@
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\bin\Debug\LinkedList-Doubly.exe.config
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\obj\Debug\LinkedList-Doubly.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\obj\Debug\LinkedList_Doubly.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\obj\Debug\LinkedList-Doubly.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\bin\Debug\LinkedList-Doubly.exe
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\bin\Debug\LinkedList-Doubly.pdb
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\obj\Debug\LinkedList_Doubly.LinkedListDB.resources
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\obj\Debug\LinkedList-Doubly.exe
+e:\documents\visual studio 2015\Projects\LinkedList-Doubly\LinkedList-Doubly\obj\Debug\LinkedList-Doubly.pdb
